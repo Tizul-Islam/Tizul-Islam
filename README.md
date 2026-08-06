@@ -14,7 +14,7 @@ I build modern, scalable, and user-focused web applications with clean architect
 
 ## 👋 About Me
 
-- 👋 Hi, I'm **[@Tizul-Islam)](https://github.com/Tizul-Islam/)**
+- 👋 Hi, I'm **[@Tizul-Islam](https://github.com/Tizul-Islam/)**
 - 💻 Full Stack Developer
 - ⚛️ Passionate about React, Next.js , TypeScript & NodeJs
 - 🚀 Building modern, scalable web applications
